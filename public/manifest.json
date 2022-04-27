@@ -1,0 +1,6 @@
+{
+  "short_name": "sample-test-app",
+  "name": "sample-test-app",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
